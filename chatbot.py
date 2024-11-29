@@ -25,7 +25,7 @@ while True:
     response = chatbot.respond(user_input)
     print(f"Chatbot: {response}")
 
-    if __name__ == "__main__":
+ 
 
-        chatbot()
+    
 
